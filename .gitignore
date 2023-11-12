@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExamPreparation/01.SumFactorialEvenDigits/obj
+/ExamPreparation/02.MiddleElements/obj
+/ExamPreparation2/01.MagicNumbers/bin/Debug/net6.0
+/ExamPreparation2/01.MagicNumbers/obj
+/ExamPreparation2/02.MinMaxValues/bin/Debug/net6.0
+/ExamPreparation2/02.MinMaxValues/obj
+/ExamPreparation3/02. AverageLastElements/obj
+/ExamPreparation3/1. EnglishNameOfEachDigit/bin/Debug/net6.0
+/ExamPreparation3/1. EnglishNameOfEachDigit/obj
